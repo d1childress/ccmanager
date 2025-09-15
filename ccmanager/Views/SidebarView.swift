@@ -34,7 +34,7 @@ struct SidebarView: View {
                 .font(.system(size: 24))
                 .foregroundColor(.purple)
             
-            Text("Claude Manager")
+            Text("CC Manager")
                 .font(.system(size: 18, weight: .semibold))
                 .foregroundColor(.white)
             

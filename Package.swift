@@ -2,14 +2,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "ClaudeManager",
+    name: "ccmanager",
     platforms: [
         .macOS(.v14)
     ],
     products: [
         .executable(
-            name: "ClaudeManager",
-            targets: ["ClaudeManager"]
+            name: "ccmanager",
+            targets: ["ccmanager"]
         )
     ],
     dependencies: [
@@ -20,14 +20,14 @@ let package = Package(
     ],
     targets: [
         .executableTarget(
-            name: "ClaudeManager",
+            name: "ccmanager",
             dependencies: [
                 "SwiftUIX",
                 "SwiftyJSON",
                 "Alamofire",
                 .product(name: "Charts", package: "swift-charts")
             ],
-            path: "ClaudeManager"
+            path: "ccmanager"
         )
     ]
 )
