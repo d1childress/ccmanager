@@ -1,4 +1,4 @@
-# Claude Manager for macOS
+# CC Manager for macOS
 
 A native macOS application for managing Claude Code and Codex with GitHub integration, featuring real-time change tracking and usage analytics.
 
@@ -44,8 +44,8 @@ A native macOS application for managing Claude Code and Codex with GitHub integr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/claude-manager.git
-cd claude-manager
+git clone https://github.com/yourusername/ccmanager.git
+cd ccmanager
 ```
 
 2. Build with Swift Package Manager:
@@ -103,7 +103,7 @@ The app is built with:
 
 ### Project Structure
 ```
-ClaudeManager/
+ccmanager/
 ├── App/                 # Main app entry points
 ├── Views/              # SwiftUI views
 ├── ViewModels/         # Observable state management

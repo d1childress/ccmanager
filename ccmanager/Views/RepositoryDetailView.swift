@@ -34,7 +34,7 @@ struct RepositoryDetailView: View {
                 appState.removeRepository(repository)
             }
         } message: {
-            Text("Are you sure you want to remove this repository from Claude Manager? This will not delete the repository from GitHub.")
+            Text("Are you sure you want to remove this repository from CC Manager? This will not delete the repository from GitHub.")
         }
     }
     

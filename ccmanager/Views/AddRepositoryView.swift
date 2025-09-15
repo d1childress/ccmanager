@@ -126,7 +126,7 @@ struct AddRepositoryView: View {
                 .font(.system(size: 14, weight: .medium))
                 .foregroundColor(.white.opacity(0.8))
             
-            Text("Enter a GitHub repository URL to add it to Claude Manager")
+            Text("Enter a GitHub repository URL to add it to CC Manager")
                 .font(.system(size: 12))
                 .foregroundColor(.white.opacity(0.5))
                 .multilineTextAlignment(.center)
@@ -149,7 +149,7 @@ struct AddRepositoryView: View {
                 .font(.system(size: 14, weight: .medium))
                 .foregroundColor(.white.opacity(0.8))
             
-            Text("Select a local Git repository to add to Claude Manager")
+            Text("Select a local Git repository to add to CC Manager")
                 .font(.system(size: 12))
                 .foregroundColor(.white.opacity(0.5))
                 .multilineTextAlignment(.center)

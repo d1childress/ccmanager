@@ -2,7 +2,7 @@ import SwiftUI
 import SwiftUIX
 
 @main
-struct ClaudeManagerApp: App {
+struct CCManagerApp: App {
     @StateObject private var appState = AppState()
     @StateObject private var githubService = GitHubService()
     @StateObject private var claudeService = ClaudeService()
