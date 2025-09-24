@@ -17,7 +17,7 @@ struct ContentView: View {
                 EmptyStateView()
             }
         } detail: {
-            if appState.selectedFile != nil {
+            if appState.currentSession != nil {
                 LiveChangesView()
             } else if appState.showUsageGraph {
                 UsageGraphView()

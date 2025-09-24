@@ -16,7 +16,7 @@ struct Repository: Identifiable, Codable, Equatable {
     let openIssuesCount: Int
     let createdAt: Date
     let updatedAt: Date
-    let localPath: String?
+    var localPath: String?
     
     static func == (lhs: Repository, rhs: Repository) -> Bool {
         lhs.id == rhs.id

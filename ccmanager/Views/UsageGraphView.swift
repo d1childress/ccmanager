@@ -234,13 +234,13 @@ struct UsageGraphView: View {
             HStack(spacing: 20) {
                 UsageBreakdown(
                     title: "Claude",
-                    percentage: Double(totalClaude) / Double(totalClaude + totalCodex),
+                    percentage: safePercentage(numerator: Double(totalClaude), denominator: Double(totalClaude + totalCodex)),
                     color: .blue
                 )
                 
                 UsageBreakdown(
                     title: "Codex",
-                    percentage: Double(totalCodex) / Double(totalClaude + totalCodex),
+                    percentage: safePercentage(numerator: Double(totalCodex), denominator: Double(totalClaude + totalCodex)),
                     color: .green
                 )
             }
@@ -293,6 +293,11 @@ struct UsageGraphView: View {
         }
         
         appState.usageHistory = mockData
+    }
+    
+    private func safePercentage(numerator: Double, denominator: Double) -> Double {
+        guard denominator > 0 else { return 0 }
+        return min(max(numerator / denominator, 0), 1)
     }
 }
 

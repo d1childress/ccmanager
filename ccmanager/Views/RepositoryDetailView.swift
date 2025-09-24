@@ -1,5 +1,6 @@
 import SwiftUI
 import SwiftUIX
+import AppKit
 
 struct RepositoryDetailView: View {
     let repository: Repository
@@ -159,7 +160,13 @@ struct RepositoryDetailView: View {
             do {
                 let localPath = NSString(string: appState.settings.defaultLocalPath).expandingTildeInPath + "/\(repository.name)"
                 try await githubService.cloneRepository(repository, to: localPath)
-                // Update repository with local path
+                // Update repository with local path in app state
+                await MainActor.run {
+                    if let index = appState.repositories.firstIndex(where: { $0.id == repository.id }) {
+                        appState.repositories[index].localPath = localPath
+                        appState.selectedRepository = appState.repositories[index]
+                    }
+                }
                 isCloning = false
             } catch {
                 appState.error = error.localizedDescription
@@ -182,7 +189,15 @@ struct RepositoryDetailView: View {
     }
     
     func pullLatest() {
-        // Implement git pull
+        Task {
+            do {
+                try await githubService.pullLatest(for: repository)
+            } catch {
+                await MainActor.run {
+                    appState.error = error.localizedDescription
+                }
+            }
+        }
     }
     
     func languageColor(for language: String) -> Color {

@@ -1,4 +1,5 @@
 import SwiftUI
+import AppKit
 
 struct EmptyStateView: View {
     @EnvironmentObject var appState: AppState

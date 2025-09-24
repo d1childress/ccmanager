@@ -15,6 +15,10 @@ struct CCManagerApp: App {
                 .environmentObject(claudeService)
                 .frame(minWidth: 1200, minHeight: 800)
                 .background(VisualEffectBlur(material: .dark, blendingMode: .behindWindow))
+                .onAppear {
+                    // Inject AppState into services to keep a single source of truth
+                    claudeService.appState = appState
+                }
         }
         .windowStyle(.hiddenTitleBar)
         .windowToolbarStyle(.unified(showsTitle: false))
