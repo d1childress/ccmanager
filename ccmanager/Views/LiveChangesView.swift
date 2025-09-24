@@ -91,7 +91,7 @@ struct LiveChangesView: View {
             .background(Color.black.opacity(0.3))
             
             ScrollView {
-                VStack(spacing: 4) {
+                LazyVStack(spacing: 4) {
                     if let changes = appState.currentSession?.changes {
                         ForEach(changes) { change in
                             ChangeRow(change: change, isSelected: selectedChange?.id == change.id)
@@ -206,7 +206,7 @@ struct LiveChangesView: View {
                 do {
                     let changes = try await githubService.fetchChanges(for: repo)
                     await MainActor.run {
-                        appState.currentSession?.changes = changes
+                        appState.setCurrentSessionChanges(changes)
                     }
                 } catch {
                     await MainActor.run {
@@ -293,9 +293,10 @@ struct DiffView: View {
     let patch: String
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 0) {
-            ForEach(patch.split(separator: "\n").indices, id: \.self) { index in
-                let line = String(patch.split(separator: "\n")[index])
+        let lines = patch.split(separator: "\n", omittingEmptySubsequences: false)
+        return VStack(alignment: .leading, spacing: 0) {
+            ForEach(Array(lines.enumerated()), id: \.offset) { index, lineSub in
+                let line = String(lineSub)
                 DiffLine(line: line, lineNumber: index + 1)
             }
         }

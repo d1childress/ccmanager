@@ -11,6 +11,7 @@ class GitHubService: ObservableObject {
     private var cancellables = Set<AnyCancellable>()
     private let baseURL = "https://api.github.com"
     private var accessToken: String?
+    private let iso8601Formatter = ISO8601DateFormatter()
     
     func authenticate(with token: String) {
         self.accessToken = token
@@ -49,8 +50,8 @@ class GitHubService: ObservableObject {
                         stargazersCount: repo.stargazers_count,
                         forksCount: repo.forks_count,
                         openIssuesCount: repo.open_issues_count,
-                        createdAt: ISO8601DateFormatter().date(from: repo.created_at) ?? Date(),
-                        updatedAt: ISO8601DateFormatter().date(from: repo.updated_at) ?? Date(),
+                        createdAt: iso8601Formatter.date(from: repo.created_at) ?? Date(),
+                        updatedAt: iso8601Formatter.date(from: repo.updated_at) ?? Date(),
                         localPath: nil
                     )
                 }
@@ -71,9 +72,12 @@ class GitHubService: ObservableObject {
     }
     
     func cloneRepository(_ repository: Repository, to localPath: String) async throws {
+        let expandedPath = expandTilde(in: localPath)
+        // Prefer HTTPS clone URL computed from fullName to avoid using the HTML URL
+        let cloneURL = "https://github.com/\(repository.fullName).git"
         let process = Process()
         process.executableURL = URL(fileURLWithPath: "/usr/bin/git")
-        process.arguments = ["clone", repository.url, localPath]
+        process.arguments = ["clone", cloneURL, expandedPath]
         
         try process.run()
         process.waitUntilExit()
@@ -90,7 +94,7 @@ class GitHubService: ObservableObject {
         
         let process = Process()
         process.executableURL = URL(fileURLWithPath: "/usr/bin/git")
-        process.currentDirectoryURL = URL(fileURLWithPath: localPath)
+        process.currentDirectoryURL = URL(fileURLWithPath: expandTilde(in: localPath))
         process.arguments = ["diff", "--name-status", "HEAD"]
         
         let pipe = Pipe()
@@ -103,6 +107,22 @@ class GitHubService: ObservableObject {
         let output = String(data: data, encoding: .utf8) ?? ""
         
         return parseGitDiff(output)
+    }
+    
+    func pullLatest(for repository: Repository) async throws {
+        guard let localPath = repository.localPath else {
+            throw GitError.noLocalPath
+        }
+        let expanded = expandTilde(in: localPath)
+        let process = Process()
+        process.executableURL = URL(fileURLWithPath: "/usr/bin/git")
+        process.currentDirectoryURL = URL(fileURLWithPath: expanded)
+        process.arguments = ["pull", "--ff-only"]
+        try process.run()
+        process.waitUntilExit()
+        if process.terminationStatus != 0 {
+            throw GitError.commandFailed
+        }
     }
     
     private func parseGitDiff(_ diff: String) -> [FileChange] {
@@ -153,6 +173,10 @@ class GitHubService: ObservableObject {
                 return "Git command failed"
             }
         }
+    }
+    
+    private func expandTilde(in path: String) -> String {
+        NSString(string: path).expandingTildeInPath
     }
 }
 

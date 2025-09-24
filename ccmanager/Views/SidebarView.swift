@@ -5,7 +5,6 @@ struct SidebarView: View {
     @EnvironmentObject var appState: AppState
     @EnvironmentObject var githubService: GitHubService
     @State private var searchText = ""
-    @State private var showingAddRepo = false
     
     var filteredRepositories: [Repository] {
         if searchText.isEmpty {
@@ -40,7 +39,7 @@ struct SidebarView: View {
             
             Spacer()
             
-            Button(action: { showingAddRepo = true }) {
+            Button(action: { appState.showAddRepository = true }) {
                 Image(systemName: "plus.circle.fill")
                     .font(.system(size: 20))
                     .foregroundColor(.white.opacity(0.8))
@@ -71,7 +70,7 @@ struct SidebarView: View {
     
     var repositoryList: some View {
         ScrollView {
-            VStack(spacing: 4) {
+            LazyVStack(spacing: 4) {
                 ForEach(filteredRepositories) { repo in
                     RepositoryRow(repository: repo)
                         .onTapGesture {

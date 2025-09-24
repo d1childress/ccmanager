@@ -12,6 +12,9 @@ class ClaudeService: ObservableObject {
     private let baseURL = "https://api.anthropic.com/v1"
     private var apiKey: String?
     
+    // Reference to app state is injected from the App entry to avoid using a global singleton
+    var appState: AppState?
+    
     func connect(apiKey: String) {
         self.apiKey = apiKey
         self.isConnected = true
@@ -31,7 +34,13 @@ class ClaudeService: ObservableObject {
         request.setValue(apiKey, forHTTPHeaderField: "x-api-key")
         request.setValue("2023-06-01", forHTTPHeaderField: "anthropic-version")
         
-        let context = repository != nil ? "Repository: \(repository!.name)\nLanguage: \(repository!.language ?? "Unknown")\n\n" : ""
+        let context: String
+        if let repo = repository {
+            let repoLanguage = repo.language ?? "Unknown"
+            context = "Repository: \(repo.name)\nLanguage: \(repoLanguage)\n\n"
+        } else {
+            context = ""
+        }
         
         let body: [String: Any] = [
             "model": "claude-3-opus-20240229",
@@ -58,15 +67,15 @@ class ClaudeService: ObservableObject {
             await MainActor.run {
                 self.currentResponse = responseData.content.first?.text
                 
-                if let session = AppState.shared.currentSession {
-                    let command = AgentCommand(
+                if self.appState?.currentSession != nil {
+                    let commandEntry = AgentCommand(
                         command: command,
                         timestamp: Date(),
                         status: .completed,
                         output: self.currentResponse,
                         error: nil
                     )
-                    AppState.shared.currentSession?.commands.append(command)
+                    self.appState?.appendCommandToCurrentSession(commandEntry)
                 }
             }
         } else {
@@ -88,7 +97,7 @@ class ClaudeService: ObservableObject {
                 request.setValue(apiKey, forHTTPHeaderField: "x-api-key")
                 request.setValue("2023-06-01", forHTTPHeaderField: "anthropic-version")
                 
-                let context = repository != nil ? "Repository: \(repository!.name)\n" : ""
+                let context: String = repository.map { "Repository: \($0.name)\n" } ?? ""
                 
                 let body: [String: Any] = [
                     "model": "claude-3-opus-20240229",

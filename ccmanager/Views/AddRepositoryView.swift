@@ -1,4 +1,5 @@
 import SwiftUI
+import AppKit
 
 struct AddRepositoryView: View {
     @EnvironmentObject var appState: AppState
@@ -134,8 +135,10 @@ struct AddRepositoryView: View {
             GlassTextField(placeholder: "https://github.com/user/repo", text: $searchText)
             
             GlassButton("Add Repository") {
-                // Parse URL and add repository
-                dismiss()
+                if let repo = parseGitHubURL(searchText) {
+                    appState.addRepository(repo)
+                    dismiss()
+                }
             }
         }
         .padding()
@@ -208,6 +211,31 @@ struct AddRepositoryView: View {
         if panel.runModal() == .OK, let url = panel.url {
             searchText = url.path
         }
+    }
+    
+    func parseGitHubURL(_ text: String) -> Repository? {
+        guard let url = URL(string: text), url.host == "github.com" else { return nil }
+        let comps = url.path.split(separator: "/").map(String.init)
+        guard comps.count >= 2 else { return nil }
+        let owner = comps[0]
+        let name = comps[1].replacingOccurrences(of: ".git", with: "")
+        return Repository(
+            id: UUID().uuidString,
+            name: name,
+            fullName: "\(owner)/\(name)",
+            owner: owner,
+            description: nil,
+            url: "https://github.com/\(owner)/\(name)",
+            defaultBranch: "main",
+            isPrivate: false,
+            language: nil,
+            stargazersCount: 0,
+            forksCount: 0,
+            openIssuesCount: 0,
+            createdAt: Date(),
+            updatedAt: Date(),
+            localPath: nil
+        )
     }
 }
 

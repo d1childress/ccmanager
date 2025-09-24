@@ -3,7 +3,6 @@ import SwiftUI
 import Combine
 
 class AppState: ObservableObject {
-    static let shared = AppState()
     
     @Published var repositories: [Repository] = []
     @Published var selectedRepository: Repository?
@@ -27,7 +26,10 @@ class AppState: ObservableObject {
     
     init() {
         loadSettings()
-        loadMockRepositories()
+        loadRepositories()
+        if repositories.isEmpty {
+            loadMockRepositories()
+        }
     }
     
     func startSession(for repository: Repository) {
@@ -53,6 +55,20 @@ class AppState: ObservableObject {
             selectedRepository = nil
         }
         saveRepositories()
+    }
+    
+    // MARK: - Session helpers (avoid mutating published optionals from other threads)
+    func appendCommandToCurrentSession(_ command: AgentCommand) {
+        guard currentSession != nil else { return }
+        currentSession?.commands.append(command)
+        // Trigger objectWillChange explicitly if needed
+        objectWillChange.send()
+    }
+    
+    func setCurrentSessionChanges(_ changes: [FileChange]) {
+        guard currentSession != nil else { return }
+        currentSession?.changes = changes
+        objectWillChange.send()
     }
     
     func updateUsageData() {
