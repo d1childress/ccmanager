@@ -1,0 +1,222 @@
+{
+  "": {
+    "dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire.d",
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire.o",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/master.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/AFError.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AFError.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AFError~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AFError.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/DataRequest.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataRequest.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataRequest.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/DataStreamRequest.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataStreamRequest.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataStreamRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DataStreamRequest.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/DownloadRequest.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DownloadRequest.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DownloadRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DownloadRequest.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/HTTPHeaders.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPHeaders.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPHeaders.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/HTTPMethod.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/HTTPMethod.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/Notifications.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Notifications.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Notifications~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Notifications.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/ParameterEncoder.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoder.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoder.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/ParameterEncoding.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoding.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ParameterEncoding.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/Protected.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Protected.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Protected~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Protected.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/Request.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Request.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Request.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/RequestTaskMap.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestTaskMap.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestTaskMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestTaskMap.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/Response.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Response.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Response.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/Session.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Session.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Session~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Session.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/SessionDelegate.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/SessionDelegate.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/SessionDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/SessionDelegate.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLConvertible+URLRequestConvertible.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLConvertible+URLRequestConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLConvertible+URLRequestConvertible.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/UploadRequest.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/UploadRequest.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/UploadRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/UploadRequest.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Core/WebSocketRequest.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/WebSocketRequest.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/WebSocketRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/WebSocketRequest.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DispatchQueue+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DispatchQueue+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DispatchQueue+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/OperationQueue+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/OperationQueue+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/OperationQueue+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Result+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Result+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Result+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/StringEncoding+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/StringEncoding+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/StringEncoding+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLRequest+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLRequest+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLRequest+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLSessionConfiguration+Alamofire.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLSessionConfiguration+Alamofire~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLSessionConfiguration+Alamofire.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/AlamofireExtended.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AlamofireExtended.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AlamofireExtended~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AlamofireExtended.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AuthenticationInterceptor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AuthenticationInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/AuthenticationInterceptor.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/CachedResponseHandler.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/CachedResponseHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/CachedResponseHandler.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/Combine.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Combine.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Combine~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Combine.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/Concurrency.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Concurrency.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Concurrency.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/EventMonitor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/EventMonitor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/EventMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/EventMonitor.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/MultipartFormData.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartFormData.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartFormData~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartFormData.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/MultipartUpload.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartUpload.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartUpload~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/MultipartUpload.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/NetworkReachabilityManager.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/NetworkReachabilityManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/NetworkReachabilityManager.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/RedirectHandler.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RedirectHandler.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RedirectHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RedirectHandler.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/RequestCompression.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestCompression.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestCompression~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestCompression.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/RequestInterceptor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestInterceptor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RequestInterceptor.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/ResponseSerialization.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ResponseSerialization.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ResponseSerialization~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ResponseSerialization.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/RetryPolicy.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RetryPolicy.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RetryPolicy~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/RetryPolicy.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ServerTrustEvaluation.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ServerTrustEvaluation~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/ServerTrustEvaluation.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLEncodedFormEncoder.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLEncodedFormEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/URLEncodedFormEncoder.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/Alamofire/Source/Features/Validation.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Validation.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Validation~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Validation.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/resource_bundle_accessor.swiftdeps"
+  }
+}

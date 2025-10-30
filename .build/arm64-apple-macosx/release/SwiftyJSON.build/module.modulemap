@@ -1,0 +1,4 @@
+module SwiftyJSON {
+    header "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON-Swift.h"
+    requires objc
+}

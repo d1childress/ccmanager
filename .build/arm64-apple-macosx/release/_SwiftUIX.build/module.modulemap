@@ -1,0 +1,4 @@
+module _SwiftUIX {
+    header "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX-Swift.h"
+    requires objc
+}

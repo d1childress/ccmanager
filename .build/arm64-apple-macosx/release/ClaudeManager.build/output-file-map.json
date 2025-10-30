@@ -1,0 +1,87 @@
+{
+  "": {
+    "dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeManager.d",
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeManager.o",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/master.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/App/ClaudeManagerApp.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeManagerApp.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeManagerApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeManagerApp.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/App/ContentView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ContentView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ContentView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Components/LiquidGlassComponents.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiquidGlassComponents.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiquidGlassComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiquidGlassComponents.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Components/VisualEffectBlur.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/VisualEffectBlur.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/VisualEffectBlur~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/VisualEffectBlur.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Models/Models.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/Models.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/Models.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Services/ClaudeService.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeService.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeService~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/ClaudeService.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Services/GitHubService.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/GitHubService.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/GitHubService~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/GitHubService.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/ViewModels/AppState.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AppState.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AppState.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/AddRepositoryView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AddRepositoryView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AddRepositoryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AddRepositoryView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/AgentCommandView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AgentCommandView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AgentCommandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/AgentCommandView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/EmptyStateView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/EmptyStateView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/EmptyStateView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/EmptyStateView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/LiveChangesView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiveChangesView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiveChangesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/LiveChangesView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/RepositoryDetailView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/RepositoryDetailView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/RepositoryDetailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/RepositoryDetailView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/SettingsView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SettingsView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/SidebarView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SidebarView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SidebarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/SidebarView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/UsageGraphView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/UsageGraphView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/UsageGraphView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/ClaudeManager.build/UsageGraphView.swiftdeps"
+  }
+}

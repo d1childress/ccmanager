@@ -1,0 +1,4 @@
+module Alamofire {
+    header "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/Alamofire.build/Alamofire-Swift.h"
+    requires objc
+}

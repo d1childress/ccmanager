@@ -1,0 +1,21 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "b6d6675913cb832026c5fb8d3413f0b6f4777f9eb5cea8ce052c1dc8446f8a65"
+build_start_time: [1757957804, 729701000]
+build_end_time: [1757957814, 469423000]
+inputs:
+  "/Users/d1demos/ccmanager/ClaudeManager/App/ClaudeManagerApp.swift": [1757957573, 690149047]
+  "/Users/d1demos/ccmanager/ClaudeManager/App/ContentView.swift": [1757957573, 690328339]
+  "/Users/d1demos/ccmanager/ClaudeManager/Components/LiquidGlassComponents.swift": [1757957573, 690580882]
+  "/Users/d1demos/ccmanager/ClaudeManager/Components/VisualEffectBlur.swift": [1757957573, 690705758]
+  "/Users/d1demos/ccmanager/ClaudeManager/Models/Models.swift": [1757957573, 690912967]
+  "/Users/d1demos/ccmanager/ClaudeManager/Services/ClaudeService.swift": [1757957573, 691149093]
+  "/Users/d1demos/ccmanager/ClaudeManager/Services/GitHubService.swift": [1757957573, 691301177]
+  "/Users/d1demos/ccmanager/ClaudeManager/ViewModels/AppState.swift": [1757957573, 691519344]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/AddRepositoryView.swift": [1757957573, 691754804]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/AgentCommandView.swift": [1757957573, 692131764]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/EmptyStateView.swift": [1757957573, 692269931]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/LiveChangesView.swift": [1757957573, 692424265]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/RepositoryDetailView.swift": [1757957573, 692652058]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/SettingsView.swift": [1757957573, 692887100]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/SidebarView.swift": [1757957573, 693051143]
+  "/Users/d1demos/ccmanager/ClaudeManager/Views/UsageGraphView.swift": [1757957573, 693199518]

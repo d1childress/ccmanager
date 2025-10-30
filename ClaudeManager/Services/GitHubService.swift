@@ -2,7 +2,7 @@ import Foundation
 import Combine
 import SwiftUI
 
-class GitHubService: ObservableObject {
+class GitHubService: VCSService {
     @Published var isAuthenticated = false
     @Published var repositories: [Repository] = []
     @Published var isLoading = false

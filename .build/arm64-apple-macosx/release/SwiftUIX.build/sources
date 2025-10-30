@@ -1,0 +1,410 @@
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitApplication++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitBezierPath++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitController++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitEdgeInsets++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitFont++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitImage++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitResponder++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitScrollView++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitTextView++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitView++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitWindow++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/AppKit or UIKit/NSTextAlignment++.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreData/FetchedResults.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreData/NSManagedObject++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreGraphics/CGFloat++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreGraphics/CGPoint++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreGraphics/CGRect++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/CoreGraphics/CGSize++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/Dispatch/DispatchQueue++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/Foundation/NSObject++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/Foundation/UserDefaults++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/Swift/Collection++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/Swift/Optional++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Alert++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Animation++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/AnyTransition.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/App++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Axis++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Color++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/DisclosureGroup++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/EquatableView+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Font++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Font.TextStyle++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/ForEach++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/GeometryReader++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Image++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/KeyEquivalent++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/KeyboardShortcut++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/LinearGradient++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Mirror++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/NavigationLink++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/OutlineGroup++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Path++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Picker++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Section++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Settings++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Shape++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Text++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/Transaction++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/VStack++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/SwiftUI/View++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIApplication++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UICollectionView++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIColor++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIEdgeInsets++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIFont++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UILayoutGuide++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UINavigationBar++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UINavigationController++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIPageViewController++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIRectEdge++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIResponder++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIScrollView++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UITabBarController++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UITableViewController++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIView++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Extensions/UIKit/UIViewController++.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKit.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitBackgroundFetchResult.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitHostingControllerProtocol.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitHostingWindow.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitHostingWindowContent.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitViewAdaptor.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitViewControllerAdaptor.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitViewControllerConfigurator.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitViewControllerResolver.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKitViewRepresentable.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/Color+AppKitOrUIKitColor.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/MutableAppKitOrUIKitViewWrapper.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/NSTextContainer++.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit or UIKit/_AppKitOrUIKitViewAnimation.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit/_AppKitMenuBarExtraPopover.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AppKit/_AppKitOrUIKitHostingPopover.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AuthenticationServices/AuthorizationAppleIDButton.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AuthenticationServices/AuthorizationAppleIDButtonStyle.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/AuthenticationServices/AuthorizationAppleIDButtonType.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Combine/AnyObservableValue.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Combine/_ObservableObjectBox.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Combine/_PublisherObserver.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Foundation/Bundle++.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/LinkPresentation/LinkPresentationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/MessageUI/MailComposer.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Quartz/QuickLookPreview.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Quartz/_QuickLookPreviewPanelPresenter.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SafariServices/SafariView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Swift/Animatable+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Swift/ArrayBuilder.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Swift/ReferenceBox.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Swift/SetBinding.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/Swift/_HashIdentifiable.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/AnyButtonStyle.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/AnyForEach.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/AnyViewModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/DefaultTextInputType.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/DragGesture.Value+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/DynamicProperty+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/EnvironmentKey+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/EnvironmentValues+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/EnvironmentValues+Gesture.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/EnvironmentValues+Metatype.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/Font+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/HoverEffect.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/Labeled.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/LazyView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/LinearGradient+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/ListStyle+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/Menu+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/PreferenceKey+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/RedactionReasons.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/RoundedRectangle+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/SidebarListStyle+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/Spacer+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/TabView+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/TapGesture+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/UserInterfaceSizeClass+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.alignmentGuide+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.frame+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.hoverEffect+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.modify.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.onChange+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.onDrag+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.onHover+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.onReceive+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.padding+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.redacted+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.scrollBounceBehavior+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.shadow+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.sheetBackground.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/View.tintColor.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/_AnyApp.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/_DynamicViewContentTraitValues.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/_ViewListMaker.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/_opaque_View.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/SwiftUI/withAnimation+.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingAlignTransitioningDelegate.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingControllerTransitioningDelegate.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingPageViewController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingScrollView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/UIHostingVisualEffectBlurView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Helpers/UIKit/View.configureUINavigationController.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Protocol Conformances/SwiftUI/SwiftUI+PreferenceKey.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intermodular/Protocol Conformances/SwiftUI/SwiftUI+opaque_View.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Activity Indicator/ActivityIndicator.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Animations/ChangePredicatedAnimation.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/App Activities/AppActivityView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/App Delegate/_CocoaApplicationDelegateAdaptor.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/CocoaHostingController+PreferenceKey.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/CocoaHostingController+Utilities.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/CocoaHostingController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/CocoaViewController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/_AppKitOrUIKitRepresented.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/_AppKitOrUIKitViewRepresentableUpdate.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/_CocoaHostingView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Bridging/_RepresentableAppKitOrUIKitView.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaCollectionElementHostingController.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewCell.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewController+_CollectionViewProxyBase.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewController.Cache.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewController.DragAndDropDelegate.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewController.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CocoaHostingCollectionViewSupplementaryView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CollectionView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CollectionViewDropDelegate.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CollectionViewLayout.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/CollectionViewReader.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionOrListCellPreferences.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionView.DataSource.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionViewConfiguration.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionViewElementContent.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Collection View/_CollectionViewItemContent.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Documents/DocumentPicker.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Documents/FileImportLink.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/AnyFileDropDelegate.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/DragDelegate.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/DragItem.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/_DragSourceDropDestinationView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/_SwiftUIX_DropDelegate.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drag & Drop/_SwiftUIX_DropInfo.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/AnyStroke.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/Visual Effects/BlurEffectView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/Visual Effects/VisualEffectBlurView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/Visual Effects/VisualEffectView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/_AnyShapeStyle.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Drawing & Graphics/_ViewShadowStyle.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/DelayedState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/EnvironmentObject.Member.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/EnvironmentObject.Optional.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/EnvironmentObjectOrObservedObject.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/EnvironmentObjectOrState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ExistentialStateObject.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/LazyState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ObservableState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ObservedObject.Optional.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ObservedPublisher.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ObservedValue.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/PersistentObject.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/StateObject.Optional.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/StateOrBinding.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ThrottledDelayedState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/TimerState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/UserStorage.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/ViewStorage.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/WeakState.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Dynamic Properties/_SwiftUIX_RenderIgnored.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Edit Menu/EditMenuPresenter.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Environment/EnvironmentInsertions.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Environment/EnvironmentPropagator.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Error Handling/LocalizedErrorHandler.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Error Handling/_TryCatchView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Event Handling/HoverReader.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Event Handling/_SwiftUIX_KeyPress.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Focus/FocusRingType.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Focus/_SwiftUIX_MoveCommandDirection.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/Axis3D.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/Flip3D.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/FrameReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/HorizontalLine.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/InitialContentAlignment.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/IntrinsicGeometryReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/IntrinsicSizeReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/OptionalDimensions.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/PartlyRoundedRectangle.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/RectangleCorner.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/RelativeFrame.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/RoundedHexagon.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/RoundedRhombus.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/Square.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Geometry/_AnchorSourceValue.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Gestures/DraggabilityViewModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Gestures/EdgeSwipeGestureOverlay.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Gestures/HitTestView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Gestures/SwipeGestureOverlay.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Haptic Feedback/FeedbackGenerator.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Images/ImagePicker.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Images/_AnyImage.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Images/_SwiftUI_ImageProvider.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Keyboard/AddKeyboardPadding.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Keyboard/Keyboard.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Keyboard/PerformActionOnKeyboardShortcut.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Layout/AutomaticAxisStack.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Layout/AxisStack.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Layout/XStack.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/CocoaList-Initializers.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/CocoaList-Modifiers.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/CocoaList-UIKit.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/CocoaList.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/CocoaListReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/IdentifiedListSection.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/ListRowManager.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/ListSection.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/ListSeparatorStyleNoneModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaList+_VariadicViewChildren.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaList-AppKit.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaList-Auxiliary.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaList.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaListCache.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaListConfiguration.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaListDataSourceType.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaListPreferences.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_CocoaListViewProvider.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableHeaderFooterView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableViewCell.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableViewCellView.ContentHostingView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableViewCellView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableViewContainer.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/List/_PlatformTableViewController.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Menu Bar/MenuBarItem.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Menu Bar/NSStatusItem+_CocoaMenuBarExtraCoordinator.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Menu Bar/_AppPhaseMonitor.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Menu Bar/_CocoaMenuBarExtraCoordinator.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Action/Action.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Action/DynamicAction.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/ActionLabelView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Caching/KeyedBoundedPriorityQueue.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Caching/KeyedViewCache.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Caching/_MemoizedViewContent.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Control Flow/ControlFlowView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Control Flow/Switch/SwitchOver.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Control Flow/Switch/SwitchOverCaseView.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/DeviceOrientation.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/EmptyAppKitOrUIKitViewRepresentable.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/NSEventMonitor.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Referencing/_NameAssignmentView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Referencing/_NamedViewDescription.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/SceneActivationActionModifiers.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/TakeSnapshotView.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/EmptyObservableObject.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/EvaluateBooleanView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/PassthroughView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/PreferenceReader.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/PublisherOutputView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/ResultView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/UnwrapOptionalView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/ZeroSizeView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/Utility Views/_ActionPerformingView.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/VisibilityModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/_AddTopOrBottomBar.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/_SwiftUI_TargetPlatform.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/_WithThrottledValue.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Miscellaneous/_assignIfNotEqual.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/CocoaNavigationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/NavigationBarConfigurator.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/NavigationBarVisibilityModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/Navigator.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/PopNavigationButton.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/SelectionNavigator.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/StackNavigationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Navigation/_NestedNavigationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Pagination/PageControl.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Pagination/PaginationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Pagination/PaginationViewReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Pagination/ProgressionController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Pagination/_PaginationView.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Path Control/PathControl.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/AlertPresentationLink.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/AnyModalPresentation.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/AnyPresentationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/CocoaPresentationCoordinator.Context.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/CocoaPresentationCoordinator.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/CocoaPresentationHostingController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/CocoaPresentationMode.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Dismissal/DismissPresentationButton.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Dismissal/DismissPresentationUnderlay.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/DynamicViewPresentable.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/DynamicViewPresenter.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Link/FullScreenCoverLink.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Link/NavigationPresentationLink.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Link/PopoverPresentationLink.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Link/PresentationLink.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Link/PresentationLinkView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/ModalPresentationStyle.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Popover/CocoaPopover.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/Popover/Popover.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/PresentationManager.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/PresentationTransitionPhase.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/PresentationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Presentation/_PopoverPresentationPreferences.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Runtime/_ForEachSubview.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Runtime/_VariadicViewAdapter.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Runtime/_VariadicViewChildren.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Runtime/_WithDynamicPropertyExistential.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/OrientationLock.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/PopoverAttachmentTarget.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/Screen.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/UserInterfaceIdiom.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/UserInterfaceOrientation.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/_CoordinateSpaceRelative.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Screen/_ScreenOrCoordinateSpace.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/CocoaScrollView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/CocoaScrollViewConfiguration.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/CocoaScrollViewReader.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/EnvironmentValues+ScrollView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/Internal/AppKit+CocoaScrollView.Configuration.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/Internal/UIKit+CocoaScrollView.Configuration.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/Internal/_AppKitOrUIKitHostingScrollViewType.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/ScrollIndicatorStyle.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Scroll View/ScrollView.ContentOffset.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Search Bar/SearchBar+NavigationView.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Search Bar/SearchBar.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Search Bar/SearchToken.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Sidebar/SidebarVisibilityModifier.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/AttributedText.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/CocoaTextField.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/EditableText.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/TextView-Modifiers.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/TextView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/TextViewDataBinding.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_AnyTextView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_ObservableTextCursor.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_PlatformTextView+Auxiliary.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_PlatformTextView-AppKit.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_PlatformTextView-UIKit.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_PlatformTextView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_TextField_KeyboardType.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_TextView-Sizing.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_TextView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_TextViewConfiguration.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Text/_TextViewReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Typography/FontFamily.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Typography/SFSymbolName+Image.swift
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_OnViewTraitsChange.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_PreferenceTraitKey.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_PreferenceTraitsReader.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_ViewTraitKeys.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_ViewTraitValues.swift'
+'/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/View Traits/_ViewTraitsReader.swift'
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Web/WebView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Web/_SwiftUIX_WKWebView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/HideTitleBar.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/PresentWindow.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/Titlebar/TitlebarConfigurationView.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/Titlebar/TitlebarItem.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/WindowOverlay.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/WindowReader.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/_WindowPresentationController.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/Intramodular/Window/_WindowStyle.swift
+/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/SwiftUIX/module.swift

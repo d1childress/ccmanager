@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON.o",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/resource_bundle_accessor.swiftdeps"
+  }
+}

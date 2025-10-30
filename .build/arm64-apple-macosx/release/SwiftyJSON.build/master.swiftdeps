@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "b23e04ecf82ba6d83611988fcd5aa7e1730f4efe3751114ac103a5751f0f4dce"
+build_start_time: [1757957767, 767908000]
+build_end_time: [1757957770, 891903000]
+inputs:
+  "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/SwiftyJSON.build/DerivedSources/resource_bundle_accessor.swift": [1757957767, 449425647]
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1757957766, 441260714]

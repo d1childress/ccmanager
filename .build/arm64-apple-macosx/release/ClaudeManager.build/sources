@@ -1,0 +1,16 @@
+/Users/d1demos/ccmanager/ClaudeManager/App/ClaudeManagerApp.swift
+/Users/d1demos/ccmanager/ClaudeManager/App/ContentView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Components/LiquidGlassComponents.swift
+/Users/d1demos/ccmanager/ClaudeManager/Components/VisualEffectBlur.swift
+/Users/d1demos/ccmanager/ClaudeManager/Models/Models.swift
+/Users/d1demos/ccmanager/ClaudeManager/Services/ClaudeService.swift
+/Users/d1demos/ccmanager/ClaudeManager/Services/GitHubService.swift
+/Users/d1demos/ccmanager/ClaudeManager/ViewModels/AppState.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/AddRepositoryView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/AgentCommandView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/EmptyStateView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/LiveChangesView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/RepositoryDetailView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/SettingsView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/SidebarView.swift
+/Users/d1demos/ccmanager/ClaudeManager/Views/UsageGraphView.swift

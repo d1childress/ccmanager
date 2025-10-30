@@ -1,0 +1,502 @@
+{
+  "": {
+    "dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX.d",
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX.o",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/master.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitImage++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitImage++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitImage++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitImage++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit or UIKit/AppKitOrUIKitView++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitView++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitView++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKitView++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSAppearance++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAppearance++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAppearance++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAppearance++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSApplication++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSApplication++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSApplication++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSApplication++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSButton.ControlSize++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSButton.ControlSize++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSButton.ControlSize++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSButton.ControlSize++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSColor++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSColor++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSColor++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSColor++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSDraggingInfo++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSDraggingInfo++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSDraggingInfo++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSDraggingInfo++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSEdgeInsets++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSEdgeInsets++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSEdgeInsets++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSEdgeInsets++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSFont++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSFont++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSFont++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSFont++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSImage++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSImage++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSImage++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSImage++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSPasteboard.PasteboardType++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSPasteboard.PasteboardType++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSPasteboard.PasteboardType++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSPasteboard.PasteboardType++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSRectEdge++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectEdge++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectEdge++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectEdge++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSScreen++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSScreen++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSScreen++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSScreen++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSTableCellView++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableCellView++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableCellView++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableCellView++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSTableView++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableView++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableView++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSTableView++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSToolbar++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSToolbar++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSToolbar++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSToolbar++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSUserInterfaceLayoutDirection++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSUserInterfaceLayoutDirection++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSUserInterfaceLayoutDirection++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSUserInterfaceLayoutDirection++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSView++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/AppKit/NSVisualEffectView.Material++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSVisualEffectView.Material++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSVisualEffectView.Material++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSVisualEffectView.Material++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/CoreGraphics/CGImage++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/CGImage++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/CGImage++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/CGImage++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/Foundation/NSAttributedString++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAttributedString++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAttributedString++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSAttributedString++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/Merge/ObservableObject++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ObservableObject++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ObservableObject++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ObservableObject++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/Swift/Never++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Never++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Never++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Never++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Alignment++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Alignment++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Alignment++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Alignment++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Angle++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Angle++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Angle++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Angle++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Binding++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Binding++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Binding++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Binding++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/ContentUnavailableView++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ContentUnavailableView++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ContentUnavailableView++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ContentUnavailableView++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Edge++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Edge.Set++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge.Set++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge.Set++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Edge.Set++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/EdgeInsets++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EdgeInsets++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EdgeInsets++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EdgeInsets++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/EditMode++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EditMode++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EditMode++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/EditMode++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/GeometryProxy++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GeometryProxy++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GeometryProxy++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GeometryProxy++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/GridIem++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridIem++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridIem++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridIem++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/GridItem.Size++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridItem.Size++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridItem.Size++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GridItem.Size++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/GroupBox++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GroupBox++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GroupBox++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/GroupBox++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/HStack++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/HStack++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/HStack++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/HStack++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/ImageRenderer++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ImageRenderer++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ImageRenderer++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/ImageRenderer++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Label++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Label++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Label++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Label++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/LazyHGrid++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyHGrid++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyHGrid++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyHGrid++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/LazyVGrid++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyVGrid++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyVGrid++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LazyVGrid++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/List++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/List++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/List++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/List++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/LocalizedStringKey++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LocalizedStringKey++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LocalizedStringKey++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/LocalizedStringKey++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Menu++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Menu++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Menu++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Menu++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/OpenWindowAction++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/OpenWindowAction++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/OpenWindowAction++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/OpenWindowAction++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/SecureField++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SecureField++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SecureField++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SecureField++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/TextField++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/TextField++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/TextField++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/TextField++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/Toggle++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Toggle++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Toggle++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Toggle++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/View++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/SwiftUI/View.mask+.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View.mask+.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View.mask+~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/View.mask+.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/UniformTypeIdentifiers/UTType++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/UTType++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/UTType++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/UTType++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Extensions/_Concurrency/Task++.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Task++.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Task++~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/Task++.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit or UIKit/AppKitOrUIKit.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKit.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/AppKitOrUIKit.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit/NSGraphicsImageRendererContext.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSGraphicsImageRendererContext.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSGraphicsImageRendererContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSGraphicsImageRendererContext.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit/NSLabel.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSLabel.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSLabel.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit/NSRectCorner.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectCorner.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectCorner~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSRectCorner.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit/NSView.AnimationOptions.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView.AnimationOptions.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView.AnimationOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSView.AnimationOptions.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/AppKit/_SwiftUIX_NSDocument.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_NSDocument.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_NSDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_NSDocument.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/Foundation/NSObject.Publisher.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSObject.Publisher.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSObject.Publisher~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/NSObject.Publisher.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/Swift/_AnyMutableCollection.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableCollection.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableCollection.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/Swift/_AnyMutableRandomAccessCollection.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableRandomAccessCollection.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableRandomAccessCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AnyMutableRandomAccessCollection.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intermodular/Helpers/Swift/_LazyBidirectionalMapMutableRandomAccessCollection.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_LazyBidirectionalMapMutableRandomAccessCollection.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_LazyBidirectionalMapMutableRandomAccessCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_LazyBidirectionalMapMutableRandomAccessCollection.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Popovers/_AppKitOrUIKitHostingPopoverPreferences.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AppKitOrUIKitHostingPopoverPreferences.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AppKitOrUIKitHostingPopoverPreferences~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_AppKitOrUIKitHostingPopoverPreferences.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+1.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+1.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+1.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+2.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+2.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+2.2.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.2.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.2~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+2.2.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+3.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+3.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+3.2.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.2.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.2~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.2.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+3.3.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.3.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.3~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+3.3.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+4.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+4.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+4.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+1.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+1.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+1.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+2.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+2.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+2.2.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.2.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.2~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+2.2.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+3.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+3.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+3.2.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.2.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.2~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.2.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+3.3.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.3.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.3~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+3.3.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+4.0.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.0.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.0~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.0.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols+4.1.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.1.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.1~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols+4.1.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol+AllSymbols.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol+AllSymbols.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SFSymbol.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SFSymbol.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SymbolLocalizations.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolLocalizations.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolLocalizations~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolLocalizations.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/SF Symbols/SymbolWithLocalizations.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolWithLocalizations.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolWithLocalizations~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SymbolWithLocalizations.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/DispatchQueue._DebouncedView.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/DispatchQueue._DebouncedView.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/DispatchQueue._DebouncedView~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/DispatchQueue._DebouncedView.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/SetActor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SetActor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SetActor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/SetActor.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_FixedSizeInfo.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_FixedSizeInfo.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_FixedSizeInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_FixedSizeInfo.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_HashableBinding.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableBinding.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableBinding~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableBinding.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_HashableEdgeInsets.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableEdgeInsets.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableEdgeInsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_HashableEdgeInsets.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_ObjectIdentifierHashed.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ObjectIdentifierHashed.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ObjectIdentifierHashed~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ObjectIdentifierHashed.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_PropertyWrapper.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_PropertyWrapper.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_PropertyWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_PropertyWrapper.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_SwiftUIX_ReferenceBox.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ReferenceBox.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ReferenceBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ReferenceBox.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/Utilities/_TypeToViewTraitKeyAdaptor.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_TypeToViewTraitKeyAdaptor.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_TypeToViewTraitKeyAdaptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_TypeToViewTraitKeyAdaptor.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/Intramodular/_SwiftUIX_ViewModifiers.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ViewModifiers.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ViewModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/_SwiftUIX_ViewModifiers.swiftdeps"
+  },
+  "/Users/d1demos/ccmanager/.build/checkouts/SwiftUIX/Sources/_SwiftUIX/module.swift": {
+    "object": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/module.swift.o",
+    "swiftmodule": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/module~partial.swiftmodule",
+    "swift-dependencies": "/Users/d1demos/ccmanager/.build/arm64-apple-macosx/release/_SwiftUIX.build/module.swiftdeps"
+  }
+}
